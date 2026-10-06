@@ -19,8 +19,9 @@ void insert_sort(int a[], int n) {
 int main() {
     int a[] = {101, 23, 57, 13, 25, 121, 87, 36, 13, 204, 111, 89, 59};
     int n = sizeof(a) / sizeof(a[0]);
-    cout << "Mang ban dau:\n";
+    cout << "Mang ban dau: ";
     for (int i = 0; i < n; i++) cout << a[i] << " ";
+    cout<<'\n';
     insert_sort(a, n);
     return 0;
 }
