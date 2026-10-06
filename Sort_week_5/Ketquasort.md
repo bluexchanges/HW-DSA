@@ -3,18 +3,18 @@
 - Độ phức tạp: O(n²) về so sánh, tối đa n−1 lần đổi chỗ.
 **Bảng viết tay:**
 
-![alt text](image.png)
+![Bảng viết tay Selection Sort](<Ảnh kết quả/Select_sort.png>)
 
 **Kết quả chạy:**
 
-![alt text](image-1.png)
+![Kết quả chạy Selection Sort](<Ảnh kết quả/Select_sort (2).png>)
 ## 2. Insertion Sort (sắp xếp chèn)
 - Độ phức tạp: O(n²) trường hợp xấu, O(n) nếu mảng đã gần sắp xếp.
 
 **Bảng viết tay** :
 
-![alt text](image-2.png)
+![Bảng viết tay Insertion Sort](<Ảnh kết quả/Insert_sort.png>)
 
 **Kết quả chạy:**
 
-![alt text](image-3.png)
+![Kết quả chạy Insertion Sort](<Ảnh kết quả/Insert_sort (2).png>)
